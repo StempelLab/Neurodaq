@@ -36,6 +36,9 @@ Start neurodaq by moving to the code folder location and running 'python -m star
 ###
 To load files, go to the IPython tab, load your files (.npy, h5) and then import them to neurodaq using ndaq.store_data('name_of_your_array'). 
 
-You should see 'data' appearing on the right-side column. Using the left-side file explorer column navigate to your video files and double click on them. The video file should appear on a column right next to the file explorer column. Drag it to the data column.
-Go to the video tab. On top you will have the video and on the bottom a plotting space. Click on 'data' and it should show all the rows of your array. Click on one and then hit the button 'Plot' which is under the plotting area.
+You should see 'data' appearing on the right-side column.
+Using the left-side file explorer column navigate to your video files and double click on them.
+The video file should appear on a column right next to the file explorer column. Drag it to the data column.
+Go to the video tab. On top you will have the video and on the bottom a plotting space. Click on 'data' and it should show all the rows of your array.
+Click on one and then hit the button 'Plot' which is under the plotting area.
 Enjoy!
