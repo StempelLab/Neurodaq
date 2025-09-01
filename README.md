@@ -41,4 +41,5 @@ Using the left-side file explorer column navigate to your video files and double
 The video file should appear on a column right next to the file explorer column. Drag it to the data column.
 Go to the video tab. On top you will have the video and on the bottom a plotting space. Click on 'data' and it should show all the rows of your array.
 Click on one and then hit the button 'Plot' which is under the plotting area.
+
 Enjoy!
